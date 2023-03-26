@@ -1,1 +1,1 @@
-This tutorial focuses mainly on git and using github as its remote.
+This tutorial focuses mainly on git and using github as its  remote.
