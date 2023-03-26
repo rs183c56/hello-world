@@ -1,1 +1,3 @@
-This tutorial focuses mainly on git and using github as its remote.
+#firstproject 
+It now includes steps for Github
+
